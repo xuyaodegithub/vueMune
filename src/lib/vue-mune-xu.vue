@@ -8,7 +8,7 @@
 
 <script>
   export default {
-    name: 'HelloWorld',
+    name: 'vue-mune-xu',
     props:['first','second','third'],
     data () {
       return {
